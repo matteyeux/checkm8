@@ -33,5 +33,5 @@ Run checkm8 as root and make sure you are in the root directory of this project.
 ### Credits
 - axi0mx for checkm8 BootROM exploit
 - synackuk for some usbexec stuff
-- Gregor Haas A10 payload
+- Gregor Haas : A10 payloads
 
